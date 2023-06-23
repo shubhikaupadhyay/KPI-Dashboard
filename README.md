@@ -9,4 +9,4 @@ Yearly Income of Microsoft - 2023 (Q2)
 ### Data Visualisation Tool:
 Power BI
 
-<img width="735" alt="image" src="https://github.com/shubhikaupadhyay/KPI-Dashboard/assets/86827252/a742f2fa-5a9d-4677-9554-f3e9aa7adaf9">
+<img width="732" alt="image" src="https://github.com/shubhikaupadhyay/KPI-Dashboard/assets/86827252/24ae1768-5a3d-4063-ae58-d890f387e45b">
